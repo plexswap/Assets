@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "description": "Centralized static asset storage environment for the Plexswap application.",
-    "main": "src/index.js",
+    "main": "app/index.js",
     "scripts": {
         "build": "next build",
         "start": "next start",
