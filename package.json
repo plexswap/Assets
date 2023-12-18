@@ -7,7 +7,6 @@
     "scripts": {
         "build": "next build",
         "start": "next start",
-        "lint": "next lint",
         "clean": "rm -rf .next && rm -rf node_modules && rm -rf dist"
     },
     "dependencies": {
@@ -16,9 +15,5 @@
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "serverless-http": "^3.2.0"
-    },
-    "devDependencies": {
-        "eslint": "8.56.0",
-        "eslint-config-next": "14.0.4"
     }
 }
