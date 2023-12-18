@@ -1,7 +1,8 @@
 {
     "name": "@plexswap/assets",
     "version": "1.0.0",
-    "description": "",
+    "description": "Centralized static asset storage environment for the Plexswap application.",
+    "main": "server.js",
     "scripts": {
         "start": "node server.js"
     },
