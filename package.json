@@ -1,9 +1,9 @@
 {
     "name": "@plexswap/assets",
     "version": "1.0.0",
+    "private": true,
     "license": "MIT",
     "description": "Centralized static asset storage environment for the Plexswap application.",
-    "main": "app/index.js",
     "scripts": {
         "build": "next build",
         "start": "next start",

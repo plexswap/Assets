@@ -6,6 +6,6 @@ const router = Router()
 
 const app = express()
 
-app.use(express.static(''), router)
+app.use(express.static('public'), router)
 
 export const handler = serverless(app);
