@@ -1,0 +1,40 @@
+[
+	{
+		"title": "Symplexia Labs",
+		"links": [
+			{
+				"text": "Home",
+				"url": "https://symplexia.com/"
+			},
+			{
+				"text": "PLEX-F",
+				"url": "https://plexfinance.us/"
+			},
+			{
+				"text": "Exchange",
+				"url": "https://swap.plexfinance.us/"
+			},
+			{
+				"text": "Crypto News",
+				"url": "https://news.symplexia.com/category/new-economy/cryptocurrency/"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "Github",
+				"url": "https://github.com/plexswap"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/plex_finance"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/plexswap_us"
+			}
+		]
+	}
+]
